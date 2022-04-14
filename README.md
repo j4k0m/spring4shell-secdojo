@@ -3,7 +3,7 @@
 # spring4shell-secdojo
 A write-up for SecDojo Spring4shell lab.
 
-SecDojo CyberLabs is a cyber security learning platform where you can put in practice your theoretical knowledge throughout training in LAB environments in order to help you assess the required knowledge for a proper acquisition of the concepts.
+[SecDojo](https://www.sec-dojo.com/) CyberLabs is a cyber security learning platform where you can put in practice your theoretical knowledge throughout training in LAB environments in order to help you assess the required knowledge for a proper acquisition of the concepts.
 
 # What is Spring4Shell vulnerability? A brief explanation of Spring4Shell.
 
