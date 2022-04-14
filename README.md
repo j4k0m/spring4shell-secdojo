@@ -27,6 +27,7 @@ nmap -sC -sV 172.16.4.33 | grep open
 |_http-open-proxy: Proxy might be redirecting requests
 ```
 A tomcat server is running on 8080 port redirecting us to /login-form/greeting, where we will use our malicious class and gain control using [exploit.py](https://github.com/reznok/Spring4Shell-POC/blob/master/exploit.py):
+
 ![image](https://user-images.githubusercontent.com/48088579/163294632-5d4c22ba-9340-4fb1-8b57-1f068fccd03c.png)
 
 or shell version:
